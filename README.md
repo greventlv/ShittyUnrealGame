@@ -1,5 +1,5 @@
 # ShittyUnrealGame
-Current Version .001h
+Current Version .002a
 
 # Introduction
 Shitty Unreal Game is a shitty FPS/Questing game
@@ -14,8 +14,9 @@ Currently this is only a modern windows program, but can be ported to most.
 Run the installer.
 
 # Version History
+Version .002a: Recreated Killhouse from COD4 and called Matacasa, added assets, bots, AI and map adjustements
 Version .002: Barebones combat system implemented; bots fight back & are slower, muzzle climb, select fire, created silly mode
-Version .001h: Added death and kill animations, fixed crouch collision model
+Version .001h: Added death and kill animations (PITA), fixed crouch collision model
 Version .001g: Added primitive AI framework and four bots to map
 Version .001f: Added ADS, visual report to AK, damage system to ammo and relaod animation, also added soundtrack
 Version .001e: Fixed Y axis issue with AK not moving, added PEWPEW sound to AK
@@ -38,7 +39,11 @@ Transition animations are still bullocks
 
 # Maps
 Completed: Stage test
-Incomplete: Derry, Matacasa/Shooting Range, Hudson
+Incomplete: Matacasa/Shooting Range
+Todo: Derry, Hudson
+
+# Inspired by
+Delta force, Call of Cthullu, SOF2, CODMW,
 
 # Contributions
 greventlv, entropyandroid, platythegreen
